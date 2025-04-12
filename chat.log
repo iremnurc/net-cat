@@ -1,0 +1,8 @@
+2025/04/12 23:48:44 Server started on port 8989
+2025/04/12 23:48:51 CONNECTION: New connection from [::1]:51492
+2025/04/12 23:49:06 CONNECTION: User Irem ::1 joined the chat
+2025/04/12 23:49:06 CONNECTION: User Irem ::1 disconnected
+2025/04/12 23:49:07 CONNECTION: New connection from [::1]:51495
+2025/04/12 23:50:57 ERROR: Error reading user name: EOF
+2025/04/12 23:50:57 CONNECTION: User  ::1 joined the chat
+2025/04/12 23:50:57 CONNECTION: User  ::1 disconnected

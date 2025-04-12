@@ -1,0 +1,16 @@
+# macOS system files
+# These are generated automatically by macOS and are not needed in the repository.
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight search files
+._*
+
+# Custom icon files
+Icon?
+
+# macOS filesystem metadata
+Thumbs.db
+.fseventsd
+.Trashes
