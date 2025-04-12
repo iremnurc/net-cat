@@ -116,6 +116,6 @@ The application includes robust error handling for:
 
 ## Authors
 
-- Irem ([@bytebabee](https://github.com/iremnurc)) 
+- Irem ([@iremnurc](https://github.com/iremnurc)) 
 - Taha ([@tcavuslu](https://github.com/tcavuslu)) 
 - Thanos
